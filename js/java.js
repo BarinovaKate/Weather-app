@@ -14,7 +14,7 @@ function cityInput(event) {
   event.preventDefault();
   let input = document.querySelector("#input-city"); 
   let inputCity = document.querySelector("#city-now");
-   inputCity.innerHTML = input.value;
+   inputCity.innerHTML = `In ${input.value} now`;
   document.querySelector("#date-time").innerHTML = `${day} ${hour}:${minutes}`; 
   let apiKey = "360f33424340a0f95a8c619e705e8605";
   let apiUrl =

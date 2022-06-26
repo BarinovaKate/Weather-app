@@ -58,7 +58,7 @@ h2 {
     width: 100px;
     color: rgb(10, 11, 83);
         font-family: 'Radio Canada', sans-serif;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 600;       
 }
 .content {
@@ -70,8 +70,8 @@ color: rgb(10, 11, 83);
     margin: 0;
 }
 img {
-    width: 40%;
-    height: 40%;
+    width: 25%;
+    height: 25%;
 }
 
 
